@@ -18,11 +18,11 @@
   ],
   "author": "WonSikin <fnghwsj@gmail.com>",
   "dependencies": {
-    "jsbarcode": "^3.8.0",
-    "react-native-svg": "^9.6.4"
+    "jsbarcode": "^3.8.0"
   },
   "peerDependencies": {
-    "prop-types": "^15.5.0"
+    "prop-types": "^15.5.0",
+    "react-native-svg": "^9.6.4"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
